@@ -1,2 +1,2 @@
 # react-beginner-projects
-a night like a hackathon
+beginner react projects
