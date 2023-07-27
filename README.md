@@ -3,6 +3,7 @@ beginner react projects
 
 # notes
 - vite looks like have fast hot reload <3
+- material ui looks like better than bootstrap
 ```
 npm create vite@latest
 ```
